@@ -240,7 +240,7 @@ iPhone Section
 iPhone2 Section
 ========================================================================== */
 .iphone2 { width: 50%; background: #f3f5f8; float: left; height: 100%; box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -moz-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); -webkit-box-shadow: inset -15px -11px 40px -6px rgba(0, 0, 0, 0.1); z-index: 1; }
-.fluid-white { width: 50%; background: #fff; float: right; height: 100%; z-index: 2; }
+.fluid-white { width: 50%; background: #fff; float: left; height: 100%; z-index: 2; }
 .responsive-services { position: relative; }
 /* ==========================================================================
 Swag
@@ -328,4 +328,5 @@ Waypoints
 .bounceInLeft, .bounceInRight, .fadeInUp, .fadeInUpDelay, .fadeInDown, .fadeInUpD, .fadeInLeft, .fadeInRight { visibility: visible; }
 .delay-05s { animation-delay: 0.5s; -webkit-animation-delay: 0.5s; }
 .delay-1s { animation-delay: 1s; -webkit-animation-delay: 1s; }
-.wp3 { background: url('../img/executive.jpg') no-repeat center center; background-position: 200px 10px; height: 100%; }
+.wp3 { background: url('../img/tactical.jpg') no-repeat center center; background-position: 200px 10px; height: 100%; }
+.wp4 { background: url('../img/executive.jpg') no-repeat center center; background-position: 200px 10px; height: 100%; }
