@@ -280,6 +280,25 @@ Subscribe
 .subscribe input[type=submit] { background: rgba(31,61,111, 0.5); border: solid 1px rgba(31,61,111, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
 .subscribe input[type=submit]:hover { background: rgba(31,61,111, 1); border: solid 1px rgba(31,61,111, 1); color: #fff; }
 /* ==========================================================================
+Subscribe2
+========================================================================== */
+.subscribe2 { background: url('../img/executive.jpg') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 120px 0 140px; }
+.subscribe2 h1 { color: #fff; margin-bottom: 40px; }
+.subscribe2 h1 span { display: block; font-size: 15px; text-transform: uppercase; font-weight: bold; margin-top: 20px; letter-spacing: 1px; }
+.subscribe2 input[type=text] { background-color: rgba(255, 255, 255, 0.1); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
+.subscribe2 input[type=submit] { background: rgba(31,61,111, 0.5); border: solid 1px rgba(31,61,111, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
+.subscribe2 input[type=submit]:hover { background: rgba(31,61,111, 1); border: solid 1px rgba(31,61,111, 1); color: #fff; }
+/* ==========================================================================
+Subscribe3
+========================================================================== */
+.subscribe3 { background: url('../img/ext.png') no-repeat center center; -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; background-attachment: fixed; padding: 120px 0 140px; }
+.subscribe3 h1 { color: #fff; margin-bottom: 40px; }
+.subscribe3 h1 span { display: block; font-size: 15px; text-transform: uppercase; font-weight: bold; margin-top: 20px; letter-spacing: 1px; }
+.subscribe3 input[type=text] { background-color: rgba(255, 255, 255, 0.1); border: solid 1px #fff; padding: 20px; width: 30%; color: #fff; }
+.subscribe3 input[type=submit] { background: rgba(31,61,111, 0.5); border: solid 1px rgba(31,61,111, 0.5); padding: 20px; color: #fff; text-transform: uppercase; letter-spacing: 1px; transition: all 0.5s ease; -moz-transition: all 0.5s ease; -webkit-transition: all 0.5s ease; -o-transition: all 0.5s ease; }
+.subscribe3 input[type=submit]:hover { background: rgba(31,61,111, 1); border: solid 1px rgba(31,61,111, 1); color: #fff; }
+
+/* ==========================================================================
 CTA
 ========================================================================== */
 .ignite-cta { background-color: #242830; padding: 70px 0; }
